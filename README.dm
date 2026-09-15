@@ -16,9 +16,9 @@ The lab is structured into three distinct investment mandates designed to captur
 
 | Strategy | Mandate | Assets Selected | Total Return | CAGR | Sharpe Ratio | Beta | Max Drawdown | Pitch & Research |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Strategy 1** | Long/Short (+50% Net) | **L:** `AMZN, ANET, SPOT, UBER`<br>**S:** `INTC, CHGG, SNAP, PTON` | **308.41%** | **48.88%** | **1.65** | **0.50** | -31.68% | [Read Memo](./Strategy_1/thesis_pitch.md) |
-| **Strategy 2** | Long/Short (+50% Net) | **L:** `CRWD, COST, MU, CEG`<br>**S:** `ZM, PATH, DOCU, TDOC` | **540.42%** | **66.21%** | **2.16** | **0.75** | -28.51% | [Read Memo](./Strategy_2/thesis_pitch.md) |
-| **Strategy 3** | Long-Only (Quality) | **L:** `STX, APH, HALO, MCO, GEV` | **322.84%** | **81.42%** | **2.81** | **1.28** | -22.89% | [Read Memo](./Strategy_Long_3/thesis_pitch.md) |
+| **Strategy 1** | Long/Short (+50% Net) | **L:** `AMZN, ANET, SPOT, UBER`<br>**S:** `CHGG, SNAP, PTON` | **484.11%** | **61.57%** | **1.90** | **0.43** | **-21.01%** | [Read Memo](./Strategy_1/thesis_pitch.md) |
+| **Strategy 2** | Long/Short (+50% Net) | **L:** `CRWD, COST, MU, CEG`<br>**S:** `ZM, PATH, DOCU, TDOC` | **540.42%** | **66.21%** | **2.16** | **0.75** | **-28.51%** | [Read Memo](./Strategy_2/thesis_pitch.md) |
+| **Strategy 3** | Long-Only (Quality) | **L:** `STX, APH, HALO, MCO, GEV` | **322.84%** | **81.42%** | **2.81** | **1.28** | **-22.89%** | [Read Memo](./Strategy_Long_3/thesis_pitch.md) |
 
 *Benchmark: S&P 500 (SPY)*
 
